@@ -14,14 +14,8 @@ Unlike general-purpose AI assistants, these agents are specialists. They excel a
 
 ## 📚 Available Agents
 
-### [🔧 Refactor Specialist](./agents/refactor-specialist.md)
-Modernizes and improves code quality without changing functionality. Eliminates code smells, applies SOLID principles, and ensures clean, maintainable code.
-
 ### [📚 DocGen Master](./agents/docgen-master.md)
 Transforms undocumented codebases into comprehensively documented projects. Creates READMEs, API docs, inline comments, and architecture guides.
-
-### [⚡ Performance Surgeon](./agents/performance-surgeon.md)
-Identifies and eliminates performance bottlenecks. Optimizes algorithms, database queries, memory usage, and load times with measurable improvements.
 
 ## 🚀 Prerequisites
 - [Trae.ai](https://trae.ai) account or similar AI coding assistant
