@@ -18,6 +18,7 @@ A specialized documentation agent that transforms codebases into comprehensive t
 - OpenAPI/Swagger spec generation
 
 ### **Example Prompts**
+
 1. **"Generate a comprehensive README.md for this repository with setup, usage, examples, and contributing guidelines"**
 2. **"Create API documentation for all REST endpoints including request/response examples"**
 3. **"Add JSDoc comments to all functions explaining parameters, returns, and usage"**
@@ -35,3 +36,6 @@ A specialized documentation agent that transforms codebases into comprehensive t
 15. **"Generate TypeScript type definitions from JavaScript code with comprehensive comments"**
 16. **"Create interactive API documentation with curl examples and response samples"**
 17. **"Document all feature flags and their configuration options"**
+
+# **Import Agent**
+https://s.trae.ai/a/160613
