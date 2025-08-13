@@ -1,5 +1,0 @@
-### [🔧 Refactor Specialist](./agents/refactor-specialist.md)
-Modernizes and improves code quality without changing functionality. Eliminates code smells, applies SOLID principles, and ensures clean, maintainable code.
-
-### [⚡ Performance Surgeon](./agents/performance-surgeon.md)
-Identifies and eliminates performance bottlenecks. Optimizes algorithms, database queries, memory usage, and load times with measurable improvements.
